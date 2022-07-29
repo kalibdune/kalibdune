@@ -15,13 +15,6 @@ living in Moscow, Russia.
 <img margin="10px" height="40" src="https://www.pngkit.com/png/detail/534-5342172_c-language-course-c-logo.png" alt="python">
 <br/>
 
-<p align="center">
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dmitry&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-
 <h2>My links</h2>
 <a href="https://vk.com/kalibdune" target="_blank"><img src="https://vk.company/static/corp_redesign/img/vk.svg" width="40px"></a>
 <a href="https://t.me/kalibdune" target="_blank"><img src="https://telegram.org/img/favicon-32x32.png" width="40px"></a>
