@@ -1,5 +1,5 @@
 ## 👋 Hi! I'm Dmitry Matveev
-### 💻 Backend Developer | 🚀 AI and Computer Science Enthusiast
+### 💻 Backend Developer | 🚀 Fullstack-developer
 
 ### 🙋‍♂️ About me:
 - 🔭 Currently working on **web projects and learning AI**
